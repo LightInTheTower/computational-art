@@ -1,2 +1,2 @@
 # computational-art
-Computational Art Projects
+A repository for computational art projects
